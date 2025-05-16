@@ -1,0 +1,9 @@
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Repositories\obj\Debug\net8.0\BootcampProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Repositories\obj\Debug\net8.0\BootcampProject.Repositories.AssemblyInfoInputs.cache
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Repositories\obj\Debug\net8.0\BootcampProject.Repositories.AssemblyInfo.cs
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Repositories\obj\Debug\net8.0\BootcampProject.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\taha_\Desktop\BootCampProject2-main\BootcampProject.Repositories\obj\Debug\net8.0\BootcampProject.Repositories.csproj.AssemblyReference.cache
+C:\Users\taha_\Desktop\BootCampProject2-main\BootcampProject.Repositories\obj\Debug\net8.0\BootcampProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taha_\Desktop\BootCampProject2-main\BootcampProject.Repositories\obj\Debug\net8.0\BootcampProject.Repositories.AssemblyInfoInputs.cache
+C:\Users\taha_\Desktop\BootCampProject2-main\BootcampProject.Repositories\obj\Debug\net8.0\BootcampProject.Repositories.AssemblyInfo.cs
+C:\Users\taha_\Desktop\BootCampProject2-main\BootcampProject.Repositories\obj\Debug\net8.0\BootcampProject.Repositories.csproj.CoreCompileInputs.cache

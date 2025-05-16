@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AF8677-EB06-46EE-9E48-E258A5D84E70}|BootcampProject\\BootcampProject.csproj|c:\\users\\taha_\\desktop\\bootcampproject2-main\\bootcampproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AF8677-EB06-46EE-9E48-E258A5D84E70}|BootcampProject\\BootcampProject.csproj|solutionrelative:bootcampproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535DC886-4DB0-45DD-9885-BD1E899E3E61}|BootcampProject.Business\\BootcampProject.Business.csproj|c:\\users\\taha_\\desktop\\bootcampproject2-main\\bootcampproject.business\\business\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535DC886-4DB0-45DD-9885-BD1E899E3E61}|BootcampProject.Business\\BootcampProject.Business.csproj|solutionrelative:bootcampproject.business\\business\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535DC886-4DB0-45DD-9885-BD1E899E3E61}|BootcampProject.Business\\BootcampProject.Business.csproj|c:\\users\\taha_\\desktop\\bootcampproject2-main\\bootcampproject.business\\bootcampproject.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{535DC886-4DB0-45DD-9885-BD1E899E3E61}|BootcampProject.Business\\BootcampProject.Business.csproj|solutionrelative:bootcampproject.business\\bootcampproject.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AF8677-EB06-46EE-9E48-E258A5D84E70}|BootcampProject\\BootcampProject.csproj|c:\\users\\taha_\\desktop\\bootcampproject2-main\\bootcampproject\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AF8677-EB06-46EE-9E48-E258A5D84E70}|BootcampProject\\BootcampProject.csproj|solutionrelative:bootcampproject\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AF8677-EB06-46EE-9E48-E258A5D84E70}|BootcampProject\\BootcampProject.csproj|c:\\users\\taha_\\desktop\\bootcampproject2-main\\bootcampproject\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AF8677-EB06-46EE-9E48-E258A5D84E70}|BootcampProject\\BootcampProject.csproj|solutionrelative:bootcampproject\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AF8677-EB06-46EE-9E48-E258A5D84E70}|BootcampProject\\BootcampProject.csproj|c:\\users\\taha_\\desktop\\bootcampproject2-main\\bootcampproject\\bootcampproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1AF8677-EB06-46EE-9E48-E258A5D84E70}|BootcampProject\\BootcampProject.csproj|solutionrelative:bootcampproject\\bootcampproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535DC886-4DB0-45DD-9885-BD1E899E3E61}|BootcampProject.Business\\BootcampProject.Business.csproj|c:\\users\\taha_\\desktop\\bootcampproject2-main\\bootcampproject.business\\managers\\bootcampmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535DC886-4DB0-45DD-9885-BD1E899E3E61}|BootcampProject.Business\\BootcampProject.Business.csproj|solutionrelative:bootcampproject.business\\managers\\bootcampmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C74387-BF3F-4730-ADAA-9652FDDA2AFC}|BootcampProject.Entities\\BootcampProject.Entities.csproj|c:\\users\\taha_\\desktop\\bootcampproject2-main\\bootcampproject.entities\\dtos\\instructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C74387-BF3F-4730-ADAA-9652FDDA2AFC}|BootcampProject.Entities\\BootcampProject.Entities.csproj|solutionrelative:bootcampproject.entities\\dtos\\instructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C74387-BF3F-4730-ADAA-9652FDDA2AFC}|BootcampProject.Entities\\BootcampProject.Entities.csproj|c:\\users\\taha_\\desktop\\bootcampproject2-main\\bootcampproject.entities\\bootcampproject.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1C74387-BF3F-4730-ADAA-9652FDDA2AFC}|BootcampProject.Entities\\BootcampProject.Entities.csproj|solutionrelative:bootcampproject.entities\\bootcampproject.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AF8677-EB06-46EE-9E48-E258A5D84E70}|BootcampProject\\BootcampProject.csproj|c:\\users\\taha_\\desktop\\bootcampproject2-main\\bootcampproject\\mapping\\profiles\\instructorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AF8677-EB06-46EE-9E48-E258A5D84E70}|BootcampProject\\BootcampProject.csproj|solutionrelative:bootcampproject\\mapping\\profiles\\instructorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F923AFE-2F2B-4375-8FD6-ECF915D46888}|BootcampProject.Repositories\\BootcampProject.Repositories.csproj|c:\\users\\taha_\\desktop\\bootcampproject2-main\\bootcampproject.repositories\\bootcampproject.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F923AFE-2F2B-4375-8FD6-ECF915D46888}|BootcampProject.Repositories\\BootcampProject.Repositories.csproj|solutionrelative:bootcampproject.repositories\\bootcampproject.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41926452-FE8A-4BB9-95B1-9A3ECA550C23}|BootcampProject.Core\\BootcampProject.Core.csproj|c:\\users\\taha_\\desktop\\bootcampproject2-main\\bootcampproject.core\\bootcampproject.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41926452-FE8A-4BB9-95B1-9A3ECA550C23}|BootcampProject.Core\\BootcampProject.Core.csproj|solutionrelative:bootcampproject.core\\bootcampproject.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Business\\Business\\Exceptions.cs",
+              "RelativeDocumentMoniker": "BootcampProject.Business\\Business\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Business\\Business\\Exceptions.cs",
+              "RelativeToolTip": "BootcampProject.Business\\Business\\Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:14:10.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject\\Program.cs",
+              "RelativeDocumentMoniker": "BootcampProject\\Program.cs",
+              "ToolTip": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject\\Program.cs",
+              "RelativeToolTip": "BootcampProject\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:00:19.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BootcampProject.Business",
+              "DocumentMoniker": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Business\\BootcampProject.Business.csproj",
+              "RelativeDocumentMoniker": "BootcampProject.Business\\BootcampProject.Business.csproj",
+              "ToolTip": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Business\\BootcampProject.Business.csproj",
+              "RelativeToolTip": "BootcampProject.Business\\BootcampProject.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T16:53:49.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "BootcampProject\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "BootcampProject\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:11:29.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "BootcampProject\\Controllers\\InstructorController.cs",
+              "ToolTip": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "BootcampProject\\Controllers\\InstructorController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:09:53.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BootcampManager.cs",
+              "DocumentMoniker": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Business\\Managers\\BootcampManager.cs",
+              "RelativeDocumentMoniker": "BootcampProject.Business\\Managers\\BootcampManager.cs",
+              "ToolTip": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Business\\Managers\\BootcampManager.cs",
+              "RelativeToolTip": "BootcampProject.Business\\Managers\\BootcampManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA9wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:03:16.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BootcampProject",
+              "DocumentMoniker": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject\\BootcampProject.csproj",
+              "RelativeDocumentMoniker": "BootcampProject\\BootcampProject.csproj",
+              "ToolTip": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject\\BootcampProject.csproj",
+              "RelativeToolTip": "BootcampProject\\BootcampProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T16:50:20.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InstructorDto.cs",
+              "DocumentMoniker": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Entities\\DTOs\\InstructorDto.cs",
+              "RelativeDocumentMoniker": "BootcampProject.Entities\\DTOs\\InstructorDto.cs",
+              "ToolTip": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Entities\\DTOs\\InstructorDto.cs",
+              "RelativeToolTip": "BootcampProject.Entities\\DTOs\\InstructorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:59:36.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InstructorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject\\Mapping\\Profiles\\InstructorProfile.cs",
+              "RelativeDocumentMoniker": "BootcampProject\\Mapping\\Profiles\\InstructorProfile.cs",
+              "ToolTip": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject\\Mapping\\Profiles\\InstructorProfile.cs",
+              "RelativeToolTip": "BootcampProject\\Mapping\\Profiles\\InstructorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:58:07.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BootcampProject.Entities",
+              "DocumentMoniker": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Entities\\BootcampProject.Entities.csproj",
+              "RelativeDocumentMoniker": "BootcampProject.Entities\\BootcampProject.Entities.csproj",
+              "ToolTip": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Entities\\BootcampProject.Entities.csproj",
+              "RelativeToolTip": "BootcampProject.Entities\\BootcampProject.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T16:53:55.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BootcampProject.Repositories",
+              "DocumentMoniker": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Repositories\\BootcampProject.Repositories.csproj",
+              "RelativeDocumentMoniker": "BootcampProject.Repositories\\BootcampProject.Repositories.csproj",
+              "ToolTip": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Repositories\\BootcampProject.Repositories.csproj",
+              "RelativeToolTip": "BootcampProject.Repositories\\BootcampProject.Repositories.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T16:53:48.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BootcampProject.Core",
+              "DocumentMoniker": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Core\\BootcampProject.Core.csproj",
+              "RelativeDocumentMoniker": "BootcampProject.Core\\BootcampProject.Core.csproj",
+              "ToolTip": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\BootcampProject.Core\\BootcampProject.Core.csproj",
+              "RelativeToolTip": "BootcampProject.Core\\BootcampProject.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T16:53:54.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\taha_\\Desktop\\BootCampProject2-main\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-16T16:48:50.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
